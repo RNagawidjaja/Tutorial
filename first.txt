@@ -1,1 +1,1 @@
-My name is Sam and I like ham. This is my first commit.
+My name is a ham and some people call me sam. This is my first commit.
